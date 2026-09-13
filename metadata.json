@@ -1,0 +1,6 @@
+{
+  "name": "নূর ইসলামিক",
+  "description": "একটি আধুনিক ও নির্ভরযোগ্য ইসলামিক অ্যান্ড্রয়েড অ্যাপ - হাদীস, মাসআলা, কুরআন সূরা ও অডিও কুরআন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
